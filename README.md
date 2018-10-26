@@ -1,4 +1,4 @@
-#P1P1
+# P1P1
 This file is the radix sort file.
 It uses one function that takes an unsorted array
 then returns a sorted array.
@@ -15,7 +15,7 @@ then it pops and places it into the return array.
 
 The first array then becomes the second array and the process repeats.
 
-#P1P2
+# P1P2
 This file is the postfix notation file.
 
 It has two functions. Convert is the function that takes a 

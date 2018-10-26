@@ -1,0 +1,8 @@
+#FOR p1p1.py
+print(radix_srot([35, 53, 55, 33,52, 32, 25]))
+print(radix_srot([53,25,33,19,69,10000]))
+
+#FOR p1p2.py
+print(convert("((5+2) ∗ (8−3))/4"))
+c = convert("((5+2) ∗ (8−3))/4")
+print(postfix2(c))

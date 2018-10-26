@@ -85,7 +85,7 @@ def postfix2(fix):
     tok = ''
     s = []
     for i in range(len(fix)):
-        if fix[i] == "∗":
+        if fix[i] == "∗" or fix[i] == '*':
             print("trusss")
             fix[i] = 'x'
     for i in fix:
